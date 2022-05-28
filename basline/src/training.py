@@ -173,9 +173,9 @@ registered_path = {
     'anli_r3_dev': config.PRO_ROOT / "data/build/anli/r3/dev.jsonl",
     'anli_r3_test': config.PRO_ROOT / "data/build/anli/r3/test.jsonl",
 
-    'pnli_train': config.PRO_ROOT / "data/build/pnli/train.jsonl",
-    'pnli_dev': config.PRO_ROOT / "data/build/pnli/dev.jsonl",
-    'pnli_test': config.PRO_ROOT / "data/build/pnli/test.jsonl",
+    'pnli_train': config.PRO_ROOT / "data/train.jsonl",
+    'pnli_dev': config.PRO_ROOT / "data/dev.jsonl",
+    'pnli_test': config.PRO_ROOT / "data/test.jsonl",
 
 }
 
