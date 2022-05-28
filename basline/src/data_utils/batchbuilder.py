@@ -1,7 +1,7 @@
 import torch
 from typing import Dict, Type
 
-from flint.data_utils.fields import FlintField, RawFlintField
+from data_utils.fields import FlintField, RawFlintField
 
 
 class BaseBatchBuilder(object):
